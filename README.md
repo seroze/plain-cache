@@ -1,0 +1,1 @@
+This is a plain cache backed by HashMap implemented for educational purpose in rust.
